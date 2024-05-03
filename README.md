@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Hipólito Rodrigues, e atualmente estou com 47 years old !!</h1>
+<h1 align="center">Meu nome é Hipólito Rodrigues, e atualmente estou com 47 years old !!</h1>
 <h3 align="center">Atualmente, sou Supervisor de TI na Escola Tecnológica de Curitiba, e há 31 anos atuo na área de TI. </h>
 
 - Meu perfil profissional se encontra em: (https://www.linkedin.com/in/hip%C3%B3lito-rodrigues-8269734b/)
