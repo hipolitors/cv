@@ -5,5 +5,6 @@
 <h1 align="center">Sobre mim!</h1>
 
 - Trabalho na área desde os meus 17 anos.
-- Liderança, trabalho em equipe, atendimentos em níveis 1 e 2.
-  
+- Liderança, trabalho em equipe, atendimentos em níveis 1, 2 e 3.
+- Boa comunicação verbal e escrita
+- Experiência na área técnica de atendimento a end user, redes, helpdesk
